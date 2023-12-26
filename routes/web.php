@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\HelloWorld;
+use App\Http\Controllers\HelloWorldBase;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,4 +14,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', HelloWorld::class);
+Route::get('/', HelloWorldBase::class);

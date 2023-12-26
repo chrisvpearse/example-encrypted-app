@@ -1,17 +1,3 @@
-<?php
-
-namespace App\Http\Controllers;
-
-use Native\Laravel\Facades\Notification;
-
-class HelloWorld extends Controller
-{
-    public function __invoke()
-    {
-        Notification::title('Hello, World!')
-            ->message('This notification was sent from an *unencrypted* controller.')
-            ->show();
-
-        return 'Hello, World!';
-    }
-}
+<?php // @phpcrypter
+if (! extension_loaded('phpcrypter')) exit('The "phpcrypter" extension is not loaded');
+#MC4xLjAsOFYzZlJuN0ZCOHE4YmN6bndNQ1QzZz09LFVic2pMZU9iYnRSQ0k4UW1nNThWRTRiSDlyYmNsdUJSbzM0S3IwWkYrZkh5TG9veFJtekFtTUVGV2taYktuYU0zMzc1OFFyZlhJekkwelJGeVQ0cFpBN3doeWxnT09EZCsvL09UYUxXNEIzcmV1cldpVlY3WnZlNWREYWNJLzc0YWc3dFNIcnY2NnVVbzdyRktqc3hDU2RpdGVVUGwvT1BRL1MzeEZKZ3lTOU82MEZYYXJ6REJwUkZrSEg0cWduenJZa0tVS3RJSExZZlhPMUZQMzZrdXFjaWNwUWpuWDNlWG5HYnUrYmJxOTlMWFZkUXN0Q2VUbVdFVzVoZWd0aHdLdnFINHc1OWNVS3J5akJ3MEc2a21JamVPald2TGdIY2YwaDdaTXAraVQrVGRrVkZQdGI3a1lnKzhqZytUL01IaElENm1oYUQyN2o5ZWN6SXFvSWNsMjR1RWNaaW4yVVlOQVVPSGN2bldHbUdCcXA3cWNyaEJERWZTK3U1U1dNbjZtTzFZamNCdEo4YWQ2YlRDNkRQUGg4WGRZRkhqRFl2Skl5VmJzOTJGOG9mWWJBbTdsZGRaeHBjUlBTaFVDRHVEaEgxazVXQUMxR3JQSFhzNWFFRUd3PT0=
