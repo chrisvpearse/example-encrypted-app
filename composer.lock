@@ -2003,12 +2003,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/chrisvpearse/nativephp-electron.git",
-                "reference": "816da54959c4da89c49bc62ab101f2f24e9ed40c"
+                "reference": "6ef7aadb8e6d13d34115fd32e7411769bb9c8f16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chrisvpearse/nativephp-electron/zipball/816da54959c4da89c49bc62ab101f2f24e9ed40c",
-                "reference": "816da54959c4da89c49bc62ab101f2f24e9ed40c",
+                "url": "https://api.github.com/repos/chrisvpearse/nativephp-electron/zipball/6ef7aadb8e6d13d34115fd32e7411769bb9c8f16",
+                "reference": "6ef7aadb8e6d13d34115fd32e7411769bb9c8f16",
                 "shasum": ""
             },
             "require": {
@@ -2091,7 +2091,7 @@
             "support": {
                 "source": "https://github.com/chrisvpearse/nativephp-electron/tree/main"
             },
-            "time": "2023-12-26T21:00:09+00:00"
+            "time": "2023-12-27T08:27:58+00:00"
         },
         {
             "name": "nativephp/laravel",
@@ -2099,12 +2099,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/chrisvpearse/nativephp-laravel.git",
-                "reference": "d1f8c043af64a82dae7bd32291e754e97987d276"
+                "reference": "52135c1728d743ca6603a6293e7fcb85e89d399b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chrisvpearse/nativephp-laravel/zipball/d1f8c043af64a82dae7bd32291e754e97987d276",
-                "reference": "d1f8c043af64a82dae7bd32291e754e97987d276",
+                "url": "https://api.github.com/repos/chrisvpearse/nativephp-laravel/zipball/52135c1728d743ca6603a6293e7fcb85e89d399b",
+                "reference": "52135c1728d743ca6603a6293e7fcb85e89d399b",
                 "shasum": ""
             },
             "require": {
@@ -2191,7 +2191,7 @@
             "support": {
                 "source": "https://github.com/chrisvpearse/nativephp-laravel/tree/main"
             },
-            "time": "2023-12-26T22:26:43+00:00"
+            "time": "2023-12-27T08:30:48+00:00"
         },
         {
             "name": "nativephp/php-bin",
